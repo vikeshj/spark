@@ -1,0 +1,9 @@
+{
+  "commitish" : "0.2.0",
+  "iOS" : [
+    {
+      "name" : "CodableFirebase",
+      "hash" : "88657a6021b038208c7e3636f6ebfaad14229d89ff62d40e3f983e80d1f9ba46"
+    }
+  ]
+}

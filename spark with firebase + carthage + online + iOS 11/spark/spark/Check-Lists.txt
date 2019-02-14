@@ -1,0 +1,85 @@
+https://github.com/audiokit/AudioKit
+https://github.com/lanqy/swift-programmatically
+https://developer.apple.com/in-app-purchase/
+https://github.com/teodorpatras/Jukebox
+push noftification - https://www.raywenderlich.com/123862/push-notifications-tutorial
+in-app subscriptions -> https://www.raywenderlich.com/36270/in-app-purchases-non-renewing-subscription-tutorial
+https://developer.apple.com/library/mac/documentation/NetworkingInternet/Conceptual/StoreKitGuide/Chapters/Products.html
+- auto renewal http://savvyapps.com/blog/how-setup-test-auto-renewable-subscription-ios-apphttp://savvyapps.com/blog/how-setup-test-auto-renewable-subscription-ios-app
+swift->
+-- polymorphism https://www.hackingwithswift.com/read/0/20/polymorphism-and-type-casting
+
+-- cocoapod http://stackoverflow.com/questions/21022638/pod-install-is-staying-on-setting-up-cocoapods-master-repo
+
+algorithm - https://github.com/raywenderlich/swift-algorithm-club
+
+//Voice 4 people
+- Bhavnath
+- Pauline
+- Sophie
+- David
+- Valérie
+
+
+//TODO
+- emails
+- vallaire@gmail.com
+- pops141183@msn.com
+- bhavnath@outlook.com
+
+● localise (english/anglais/inglés - EN, french/français/francés - FR, spanish/espagnol/español - BE)
+● configuration
+- characters
+> male/hommes/masculino
+> female/femme/hembra
+- voices (4 people)
+> Bhavnath
+> Sophie
+> Pauline
+> Valérie
+- background music
+> Water/eau/agua
+> Wind/Vent/viento
+> Fire/feux/fuego
+
+
+- Good MVC Pratice
+    https://github.com/futurice/ios-good-practices
+
+- UIAppearnce
+https://www.raywenderlich.com/108766/uiappearance-tutorial
+
+- client server
+https://github.com/daltoniam/SwiftHTTP#clientserver-example
+- json
+https://github.com/daltoniam/JSONJoy-Swift
+
+- dowload file async
+http://stackoverflow.com/questions/28219848/download-file-in-swift
+- recorder and save on drive
+https://www.hackingwithswift.com/read/33/2/recording-from-the-microphone-with-avaudiorecorder
+
+
+-- WARNING REMOVAL
+http://www.miqu.me/blog/2016/07/31/xcode-8-new-build-settings-and-analyzer-improvements/
+CLANG_ANALYZER_NONNULL - YES
+GCC_WARN_INHIBIT_ALL_WARNINGS - YES
+-- link https://github.com/CocoaPods/CocoaPods/issues/209
+-- >> http://stackoverflow.com/questions/2453206/generatedsymfile-warning-unable-to-open-object-file
+
+-- verified email firebase
+https://firebase.google.com/docs/auth/ios/manage-users
+
+-- for alarm clock interface / wake up time
+https://github.com/HamzaGhazouani/HGCircularSlider
+
+-- load more
+http://stackoverflow.com/questions/37144030/how-do-you-properly-order-data-from-firebase-chronologically
+
+--- SEARCH
+https://www.appcoda.com/custom-search-bar-tutorial/
+https://github.com/ihomam/CollectionViewWithSearchBar/blob/master/collevtionViewWithSearchBar/CollectionViewController.swift
+
+—- application shortcuts
+http://stackoverflow.com/a/38491222
+

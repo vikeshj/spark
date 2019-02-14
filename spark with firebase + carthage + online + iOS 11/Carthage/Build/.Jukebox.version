@@ -1,0 +1,9 @@
+{
+  "commitish" : "0.2.1",
+  "iOS" : [
+    {
+      "name" : "Jukebox",
+      "hash" : "546d8a43121aaf9a4f6742acc361236622ac279c152708cde08fa016bd0dab21"
+    }
+  ]
+}

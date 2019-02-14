@@ -1,0 +1,5 @@
+github "alickbass/CodableFirebase" "0.2.0"
+github "bizz84/SwiftyStoreKit" "0.12.0"
+github "kishikawakatsumi/KeychainAccess" "v3.1.0"
+github "ninjaprox/NVActivityIndicatorView" "4.1.1"
+github "teodorpatras/Jukebox" "0.2.1"

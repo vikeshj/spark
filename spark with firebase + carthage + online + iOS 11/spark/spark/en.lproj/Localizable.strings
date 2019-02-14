@@ -1,0 +1,112 @@
+/* 
+  Localizable.strings
+  spark
+ 
+  https://github.com/micazeve
+  Created by Vikesh on 08/09/2016.
+  Copyright © 2016 Vikesh. All rights reserved.
+*/
+
+// buttons
+back_button = "Back";
+
+
+appLanguage = "English";
+
+/***
+ *  configuration screen **
+ */
+configutationTitle = "Configuration";
+voiceSelectiionTitle = "choose your voice";
+selectionEnglishLanguage = "English";
+selectionFrenchLanguage = "French";
+selectionSpanishLanguage = "Spanish";
+backgroundMusicTitle = "background music";
+saveConfigurationButtonTitle = "Save";
+skipTitle = "Skip >";
+nextTitle = "Next >";
+endTitle = "Save";
+delete = "Delete";
+
+//gender
+genderTitle = "i'm a";
+selectionGenderMaleTitle = "Male";
+selectionGenderFemaleTitle = "Female";
+
+//background music
+earth = "Earth";
+water = "Water";
+air = "Wind";
+fire = "Fire";
+
+/**
+ * Login Screen
+ */
+//segments
+loginTitle = "Login";
+registerTitle = "Sign up";
+cancel = "Cancel";
+
+
+//Spinner
+inProgress = "In progress";
+connectionError = "Connection Error";
+youAreNotConnect = "Connect to the internet to listen the voices";
+noInternetConnection = "You are not connected to the internet!";
+playlistLoading = "Loading Playlist \n please wait";
+offlineMode = "Application is running in offline mode";
+onlineMode = "You are reconnected online";
+
+// Labels
+namePlaceholderTitle = "Your fullname";
+emailPlaceholderTitle = "Email address";
+passwordPlaceholderTitle = "Password";
+verifiedPasswordPlaceholderTitle = "Verified password";
+searchPlaceholderTitle = "Search";
+signOutTile = "Logout";
+
+
+//Form errors
+errorFormTitle = "Form Error !";
+allFieldsAreRequires = "All fileds are required*";
+passwordNotMatch = "Your password does not match!";
+warning = "Warning";
+selectGender = "Please select your gender";
+selectYourVoice = "You need to chose a voice!";
+selectYourBackgroundAmbient = "You need to chose a background music ambient";
+
+
+//menu
+themes = "Themes";
+playlists = "Playlists";
+gallery = "Gallery";
+configuration = "Configurations";
+
+//Playlist
+playlistsTitle = "Playlists";
+myPlaylists = "My Playlists";
+default = "Default";
+createNewPlaylist = "Create new Playlist";
+playlistAdded = "Playlist has been added";
+editPlaylistTitle = "Edit your playlist title";
+deletePlaylist = "Playlist has been deleted!";
+add = "Update";
+add1 = "Add";
+addToExistingPlaylist = "Add to existing Playlist";
+playlistPlaceHolder = "Enter your playlist name";
+noPlaylistAvailable = "You dont have any playlist available. To create playlist go to Theme section";
+noPlaylisWithVoice = "No playlist available with $0 voice";
+playlistCreated = "Your playlist has been created. To view the playlist go to \"Playlist Section\"";
+withTheVoiceOf = "With the voice of";
+nowPlaying = "▶︎ Now Playing";
+noPlaylistPlaying = "---- No Playlist ----";
+clearCache = "Clear Cache";
+clearCacheYes = "Are you sure to clean the app cache?";
+
+//Alarm
+am = "AM";
+pm = "PM";
+comingSoon = "Feature coming soon!";
+setAlarm = "Set as Alarm";
+viewAlarmList = "Alarm Lists";
+editAlarm = "Edit";
